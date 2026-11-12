@@ -1,0 +1,8 @@
+{
+  "name": "Remix KH và phương pháp dạy học (9/11)",
+  "description": "A tool to convert Course Structure Word documents into formatted Teaching Plan documents automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
